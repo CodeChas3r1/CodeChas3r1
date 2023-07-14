@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm just a simple human, smart, with knowledge and also a fast learner.
+I'm just a simple human, smart, with some knowledge about technology and also likes Custom Rom Development, I'm not a pro 😉
 
 
 # 💻 Tech Stack:
