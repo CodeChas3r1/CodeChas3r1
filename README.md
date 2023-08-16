@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm just a simple, smart, wise with some knowledge about technology, programming languages and also likes Custom Rom Development, I'm not a pro ( NOOB ) 😉
+I'm just a simple, smart, wise with some knowledge about technology, programming languages and also likes Custom Rom Development, I'm not a pro developer #NOOB 😉
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
